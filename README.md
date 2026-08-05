@@ -35,12 +35,12 @@ The project focuses on clean UI, simple business logic, and scalable structure s
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage]([screenshots/homepage.png](https://github.com/Eslam-naser489/kemet_web/blob/597964a882c8879139dde2f74814dd91d73b365e/Screenshot%202026-06-09%20161416.png))
 
 ### Hotels Page
-![Hotels Page](screenshots/hotels.png)
+![Hotels Page]([screenshots/hotels.png](https://github.com/Eslam-naser489/kemet_web/blob/597964a882c8879139dde2f74814dd91d73b365e/Screenshot%202026-04-18%20052301.png))
 
 ### Attraction Details
-![Attraction Details](screenshots/attraction.png)
+![Attraction Details]([screenshots/attraction.png](https://github.com/Eslam-naser489/kemet_web/blob/597964a882c8879139dde2f74814dd91d73b365e/book.jpeg))
 # kemet-frontend-main
 # kemet_web
